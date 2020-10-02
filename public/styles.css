@@ -78,6 +78,6 @@ body{
 /* Main part end */
 @media (max-width: 700px){
     .inner{
-        height: 150vh;
+        height: 120vh;
     }
 }
